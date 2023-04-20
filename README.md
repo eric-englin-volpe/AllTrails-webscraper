@@ -1,0 +1,1 @@
+# AllTrails-webscraper
